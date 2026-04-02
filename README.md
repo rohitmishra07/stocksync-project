@@ -88,7 +88,7 @@ Access the mobile scanner at `http://localhost:5173/scanner`. To install as a PW
 
 | Service | URL |
 |---------|-----|
-| Frontend | http://localhost:5173 |
+| Frontend | http://localhost |
 | Backend API | http://localhost:8000/api/v1/ |
 | API Docs (Swagger) | http://localhost:8000/api/docs/ |
 | API Docs (ReDoc) | http://localhost:8000/api/redoc/ |
